@@ -53,5 +53,9 @@
     "resolve-url-loader": "^5.0.0",
     "sass-loader": "^16.0.3",
     "style-loader": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sandwich01/ToDo-application.git"
   }
 }
