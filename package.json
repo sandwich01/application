@@ -2,7 +2,7 @@
   "name": "todo-application",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sandwich01.github.io/ToDo-application",
+  "homepage": "https://sandwich01.github.io/application",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -56,6 +56,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:sandwich01/ToDo-application.git"
+    "url": "git@github.com:sandwich01/application.git"
   }
 }
